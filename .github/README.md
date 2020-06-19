@@ -7,7 +7,7 @@
 GitHub Pages Template repository for 52 For Code Review challenge
 
 
-## [![Byte size of GitHub Pages Template][badge__master__gh_pages_template__source_code]][gh_pages_template__master__source_code] [![Open Issues][badge__issues__gh_pages_template]][issues__gh_pages_template] [![Open Pull Requests][badge__pull_requests__gh_pages_template]][pull_requests__gh_pages_template] [![Latest commits][badge__commits__gh_pages_template__master]][commits__gh_pages_template__master] [![gh-pages-template Demos][badge__gh_pages__gh_pages_template]][gh_pages__gh_pages_template]
+## [![Byte size of GitHub Pages Template][badge__gh_pages__s0ands0__source_code]][s0ands0__gh_pages__source_code] [![Open Issues][badge__issues__s0ands0]][issues__s0ands0] [![Open Pull Requests][badge__pull_requests__s0ands0]][pull_requests__s0ands0] [![Latest commits][badge__commits__s0ands0__gh_pages]][commits__s0ands0__gh_pages] [![S0AndS0 Demos][badge__gh_pages__s0ands0]][gh_pages__s0ands0]
 
 
 
@@ -43,7 +43,7 @@ This repository makes use of Git Submodules to track dependencies, to avoid inco
 
 
 ```Bash
-git clone --recurse-submodules git@github.com:52ForPeerReview/gh-pages-template.git
+git clone --recurse-submodules git@github.com:52ForPeerReview/S0AndS0.git
 ```
 
 
@@ -83,7 +83,7 @@ ___
 To setup your own blog within the `52ForPeerReview` sub-domain, please review the posts found on the [Home Page][52forpeerreview__gh_pages__home] for this Organization.
 
 
-If you have made a Fork of the `gh-pages-template` repository then please modify this file and the `_config.yml` file, first via the `after-fork.sh` script, eg...
+If you have made a Fork of the `S0AndS0` repository then please modify this file and the `_config.yml` file, first via the `after-fork.sh` script, eg...
 
 
 **Syntax Example**
@@ -181,15 +181,15 @@ ___
 This repository may not be feature complete and/or fully functional, Pull Requests that add features or fix bugs are certainly welcomed.
 
 
-- [Fork][gh_pages_template__fork_it] this repository to an account that you have write permissions for.
+- [Fork][s0ands0__fork_it] this repository to an account that you have write permissions for.
 
 - Add remote for fork URL. The URL syntax is _`git@github.com:<NAME>/<REPO>.git`_...
 
 
 ```Bash
-cd ~/git/hub/52ForPeerReview/gh-pages-template
+cd ~/git/hub/52ForPeerReview/S0AndS0
 
-git remote add fork git@github.com:<NAME>/gh-pages-template.git
+git remote add fork git@github.com:<NAME>/S0AndS0.git
 ```
 
 
@@ -197,7 +197,7 @@ git remote add fork git@github.com:<NAME>/gh-pages-template.git
 
 
 ```Bash
-cd ~/git/hub/52ForPeerReview/gh-pages-template
+cd ~/git/hub/52ForPeerReview/S0AndS0
 
 
 git commit -F- <<'EOF'
@@ -272,53 +272,53 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   "&#x2696; Full length version of AGPL-3.0 License"
 
 
-[badge__commits__gh_pages_template__master]:
-  https://img.shields.io/github/last-commit/52ForPeerReview/gh-pages-template/master.svg
+[badge__commits__s0ands0__gh_pages]:
+  https://img.shields.io/github/last-commit/52ForPeerReview/S0AndS0/master.svg
 
-[commits__gh_pages_template__master]:
-  https://github.com/52ForPeerReview/gh-pages-template/commits/master
+[commits__s0ands0__gh_pages]:
+  https://github.com/52ForPeerReview/S0AndS0/commits/master
   "&#x1F4DD; History of changes on this branch"
 
 
-[gh_pages_template__community]:
-  https://github.com/52ForPeerReview/gh-pages-template/community
+[s0ands0__community]:
+  https://github.com/52ForPeerReview/S0AndS0/community
   "&#x1F331; Dedicated to functioning code"
 
-[gh_pages_template__gh_pages]:
-  https://github.com/52ForPeerReview/gh-pages-template/tree/
+[s0ands0__gh_pages]:
+  https://github.com/52ForPeerReview/S0AndS0/tree/
   "Source code examples hosted thanks to GitHub Pages!"
 
-[badge__gh_pages__gh_pages_template]:
-  https://img.shields.io/website/https/52ForPeerReview.github.io/gh-pages-template/index.html.svg?down_color=darkorange&down_message=Offline&label=Demo&logo=Demo%20Site&up_color=success&up_message=Online
+[badge__gh_pages__s0ands0]:
+  https://img.shields.io/website/https/52ForPeerReview.github.io/S0AndS0/index.html.svg?down_color=darkorange&down_message=Offline&label=Demo&logo=Demo%20Site&up_color=success&up_message=Online
 
-[gh_pages__gh_pages_template]:
-  https://52ForPeerReview.github.io/gh-pages-template/index.html
+[gh_pages__s0ands0]:
+  https://52ForPeerReview.github.io/S0AndS0/index.html
   "&#x1F52C; Check the example collection tests"
 
-[issues__gh_pages_template]:
-  https://github.com/52ForPeerReview/gh-pages-template/issues
+[issues__s0ands0]:
+  https://github.com/52ForPeerReview/S0AndS0/issues
   "&#x2622; Search for and _bump_ existing issues or open new issues for project maintainer to address."
 
-[gh_pages_template__fork_it]:
-  https://github.com/52ForPeerReview/gh-pages-template/
+[s0ands0__fork_it]:
+  https://github.com/52ForPeerReview/S0AndS0/
   "&#x1F531; Fork it!"
 
-[pull_requests__gh_pages_template]:
-  https://github.com/52ForPeerReview/gh-pages-template/pulls
+[pull_requests__s0ands0]:
+  https://github.com/52ForPeerReview/S0AndS0/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
-[gh_pages_template__master__source_code]:
-  https://github.com/52ForPeerReview/gh-pages-template/
+[s0ands0__gh_pages__source_code]:
+  https://github.com/52ForPeerReview/S0AndS0/
   "&#x2328; Project source!"
 
-[badge__issues__gh_pages_template]:
-  https://img.shields.io/github/issues/52ForPeerReview/gh-pages-template.svg
+[badge__issues__s0ands0]:
+  https://img.shields.io/github/issues/52ForPeerReview/S0AndS0.svg
 
-[badge__pull_requests__gh_pages_template]:
-  https://img.shields.io/github/issues-pr/52ForPeerReview/gh-pages-template.svg
+[badge__pull_requests__s0ands0]:
+  https://img.shields.io/github/issues-pr/52ForPeerReview/S0AndS0.svg
 
-[badge__master__gh_pages_template__source_code]:
-  https://img.shields.io/github/repo-size/52ForPeerReview/gh-pages-template
+[badge__gh_pages__s0ands0__source_code]:
+  https://img.shields.io/github/repo-size/52ForPeerReview/S0AndS0
 
 [jekyllrb__home]:
   https://jekyllrb.com/
