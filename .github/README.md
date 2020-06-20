@@ -273,7 +273,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 
 
 [badge__commits__s0ands0__gh_pages]:
-  https://img.shields.io/github/last-commit/52ForPeerReview/S0AndS0/master.svg
+  https://img.shields.io/github/last-commit/52ForPeerReview/S0AndS0/gh-pages.svg
 
 [commits__s0ands0__gh_pages]:
   https://github.com/52ForPeerReview/S0AndS0/commits/gh-pages
