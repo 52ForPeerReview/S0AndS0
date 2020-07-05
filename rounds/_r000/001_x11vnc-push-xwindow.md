@@ -55,3 +55,5 @@ x11vnc-push-xwindow raspberrypi
 [documentation__x11vnc_push_xwindow]: https://github.com/rpi-curious/x11vnc-push-xwindow/blob/main/.github/README.md "Repository documentation"
 
 [source__x11vnc_push_xwindow]: https://github.com/rpi-curious/x11vnc-push-xwindow "Repository source code"
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/244765/bash-script-to-mirror-xwindow-to-remote-ssh-host
