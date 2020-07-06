@@ -30,3 +30,5 @@ Check the [documentation][documentation__includes_hcard] for detailed getting st
 [source__includes_hcard]: https://github.com/liquid-utilities/includes-hcard "Repository source code"
 
 [demo__includes_hcard]: https://liquid-utilities.github.io/includes-hcard/
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/245100/liquid-includes-hcard-module

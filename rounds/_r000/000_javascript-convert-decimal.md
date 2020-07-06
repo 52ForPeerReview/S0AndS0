@@ -53,3 +53,5 @@ Documentation is currently within the [`ReadMe`][documentation__decimal_to_base]
 [source__decimal_to_base]: https://github.com/javascript-utilities/decimal-to-base "Repository source code"
 
 [demo__decimal_to_base]: https://javascript-utilities.github.io/decimal-to-base/index.html "Live and interactive demo"
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/244488/javascript-convert-decimal-to-another-base
