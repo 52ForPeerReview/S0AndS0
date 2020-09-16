@@ -12,7 +12,7 @@ time_to_live: 1800
 This week I've published a Vim plugin for swiftly replacing a misspelled word with first suggested correction, for example to correct a misspelled word previous to the cursor position...
 
 
-```Vim
+```vim
 <Leader>sp
 ```
 
@@ -20,7 +20,7 @@ This week I've published a Vim plugin for swiftly replacing a misspelled word wi
 ... or first spelling correction for next word...
 
 
-```Vim
+```vim
 <Leader>sn
 ```
 
