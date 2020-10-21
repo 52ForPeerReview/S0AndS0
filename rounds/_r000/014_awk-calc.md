@@ -28,5 +28,3 @@ calc.awk <<<'2 + 2'
 
 [source__calc]: https://github.com/awk-utilities/calc "Repository source code"
 
-[demo__calc]: https://awk-utilities.github.io/calc/index.html
-
