@@ -56,3 +56,5 @@ torrific-lynx 'https://duckduckgo.com'
 [documentation__torrific_lynx]: https://github.com/paranoid-linux/torrific-lynx/blob/main/.github/README.md "Repository documentation"
 
 [source__torrific_lynx]: https://github.com/paranoid-linux/torrific-lynx "Repository source code"
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/245501/clear-net-browsing-with-lynx-over-tor

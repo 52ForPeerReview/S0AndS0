@@ -44,3 +44,5 @@ After installation the documentation can be accessed via Vim's `:help` command, 
 
 [source__markdown_headings]: https://github.com/vim-utilities/markdown-headings "Repository source code"
 
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/246098/vim-plugin-markdown-headings

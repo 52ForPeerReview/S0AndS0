@@ -29,3 +29,6 @@ Check the [documentation][documentation__nudge_lines] for detailed getting start
 
 [source__nudge_lines]: https://github.com/vim-utilities/nudge-lines "Repository source code"
 
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/249468/vim-plugin-nudge-lines
+
