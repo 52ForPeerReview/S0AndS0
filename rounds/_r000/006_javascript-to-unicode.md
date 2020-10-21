@@ -21,3 +21,6 @@ Check the [documentation][documentation__to_unicode] for detailed getting starte
 [source__to_unicode]: https://github.com/javascript-utilities/to-unicode "Repository source code"
 
 [demo__to_unicode]: https://javascript-utilities.github.io/to-unicode/index.html
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/247547/javascript-string-to-unicode-hex
+
