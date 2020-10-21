@@ -21,11 +21,11 @@ This week I've published a Vim plugin that nudges visually selected lines up or 
 - <kbd><kbd>Shift</kbd><sub>^</sub><kbd>J</kbd></kbd> Nudge visual selection down and reformat tabs
 
 
-Check the [documentation][documentation__spelling_shortcuts] for detailed getting started and usage instructions, the [source code][source__spelling_shortcuts] is available on GitHub.
+Check the [documentation][documentation__nudge_lines] for detailed getting started and usage instructions, the [source code][source__nudge_lines] is available on GitHub.
 
 
 
-[documentation__spelling_shortcuts]: https://github.com/vim-utilities/spelling-shortcuts/blob/main/.github/README.md "Repository documentation"
+[documentation__nudge_lines]: https://github.com/vim-utilities/nudge-lines/blob/main/.github/README.md "Repository documentation"
 
-[source__spelling_shortcuts]: https://github.com/vim-utilities/spelling-shortcuts "Repository source code"
+[source__nudge_lines]: https://github.com/vim-utilities/nudge-lines "Repository source code"
 
