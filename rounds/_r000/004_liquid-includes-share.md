@@ -20,3 +20,7 @@ Check the [documentation][documentation__includes_share_page] for detailed getti
 [source__includes_share_page]: https://github.com/liquid-utilities/includes-share-page "Repository source code"
 
 [demo__includes_share_page]: https://liquid-utilities.github.io/includes-share-page/ "Live demonstration of repository results"
+
+
+[question__code_review__stack_exchange]: https://codereview.stackexchange.com/questions/245780/liquid-includes-share-page
+
