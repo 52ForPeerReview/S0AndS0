@@ -9,8 +9,7 @@ time_to_live: 1800
 
 
 
-
-Check the [documentation][link__documentation] for detailed getting started and usage instructions, the [source code][link__source] is available on GitHub.
+This week I've published a Bash submodule that removes elements from Bash array. Check the [documentation][link__documentation] for detailed getting started and usage instructions, the [source code][link__source] is available on GitHub.
 
 
 **Bash Variables**
@@ -76,7 +75,7 @@ printf '${list[*]} -> ( %s )\n' "${list[*]}"
 
 
 
-[link__documentation]: https://github.com/vim-utilities/array-splice/blob/main/.github/README.md "Repository documentation"
+[link__documentation]: https://github.com/bash-utilities/array-splice/blob/main/.github/README.md "Repository documentation"
 
 [link__source]: https://github.com/bash-utilities/array-splice "Repository source code"
 
