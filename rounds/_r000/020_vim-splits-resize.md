@@ -14,7 +14,7 @@ This week I've published a Vim plugin for re-sizing splits. Check the [documenta
 **Clone**
 
 
-```Bash
+```bash
 mkdir -vp ~/git/hub/vim-utilities
 
 cd ~/git/hub/vim-utilities
@@ -26,7 +26,7 @@ git clone git@github.com:vim-utilities/splits-resize.git
 **Install**
 
 
-```Bash
+```bash
 cd ~/git/hub/vim-utilities/splits-resize
 
 make install
