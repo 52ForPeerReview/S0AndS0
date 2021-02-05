@@ -2,7 +2,7 @@ layout: post
 title: JavaScript Iterator Cascade Callbacks
 description: Iterator that chains callback function execution
 date: 2021-01-23 20:12:34 -0800
-# date_updated:  ## Optional, formatted like 'date' above
+date_updated: 2021-02-04 21:12:34 -0800
 time_to_live: 1800
 ---
 
