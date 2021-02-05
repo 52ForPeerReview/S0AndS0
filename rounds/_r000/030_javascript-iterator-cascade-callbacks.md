@@ -162,7 +162,7 @@ Web projects should use `script` tag(s) within HTML `head` source, and reference
 ```
 
 
-**`assets/javascript/main.js`**
+**`assets/javascript/index.js`**
 
 
 ```javascript
