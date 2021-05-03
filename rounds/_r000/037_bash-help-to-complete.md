@@ -15,7 +15,7 @@ This week I've published a set of Git utilities for aliasing commands with wrapp
 **Clone**
 
 
-```Bash
+```bash
 mkdir -p ~/git/hub/bash-utilities
 
 cd ~/git/hub/bash-utilities
@@ -27,7 +27,7 @@ git clone --recurse-submodules git@github.com:bash-utilities/help-to-complete.gi
 **Install**
 
 
-```Bash
+```bash
 cd ~/git/hub/bash-utilities/help-to-complete
 
 make install
@@ -40,7 +40,7 @@ make install
 After installing `bash-help-to-complete` the any script within the `alias-scripts/` directory may be installed by name, eg...
 
 
-```Bash
+```bash
 sudo help-to-complete --executable script-name\
                       --completion-dir /usr/share/bash-completion/completions\
                       --help-option '--usage'
@@ -48,7 +48,9 @@ sudo help-to-complete --executable script-name\
 
 
 
-[link__documentation]: https://github.com/git-utilities/link-alias/blob/main/.github/README.md "Repository documentation"
+[link__documentation]: https://github.com/bash-utilities/help-to-complete/blob/main/.github/README.md "Repository documentation"
 
-[link__source]: https://github.com/git-utilities/link-alias "Repository source code"
+[link__source]: https://github.com/bash-utilities/help-to-complete "Repository source code"
+
+[link__tweet]: https://twitter.com/S0_And_S0/status/1370524568989876231
 
