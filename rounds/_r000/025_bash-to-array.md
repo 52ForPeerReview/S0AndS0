@@ -9,7 +9,7 @@ time_to_live: 1800
 
 
 
-This week I've published a submodule for converting strings to Bash arrays
+This week I've published a submodule for converting strings to Bash arrays. Check the [documentation][link__documentation] for detailed getting started and usage instructions, the [source code][link__source] is available on GitHub. What follows is the TLDR for installation and usage...
 
 
 **Clone/Install**
