@@ -11,7 +11,7 @@ time_to_live: 1800
 This week I've published an example navigation menu that is built with pure CSS and HTML. Check the [live demo][link__web_site] to explore the features, and the [documentation][link__documentation] for how to submit bug reports or suggest enhancements; source code is, as always, available via [GitHub][link__source].
 
 
-Git may be used to clone source code and edit localy, eg...
+Git may be used to clone source code and edit locally, eg...
 
 
 ```Bash
@@ -32,7 +32,7 @@ git clone git@github.com:web-dev-examples/css-navigation-menu.git
 - **`assets/css/style.css`** provides additional styling and further enhances menu presentation.
 
 
-Python or your faviourit development web-server may be used to test site and any changes, eg...
+Python or your favourite development web-server may be used to test site and any changes, eg...
 
 
 ```bash
