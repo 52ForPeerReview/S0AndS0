@@ -12,11 +12,13 @@ time_to_live: 1800
 This week I have published a Bash wrapper script that logs `install` and `update` actions for `apt-get` via `script`.
 
 
-Check the [documentation][documentation__to_unicode] for detailed getting started and usage instructions, the [source code][source__to_unicode] is available on GitHub.
+Check the [link__documentation][link__documentation] for detailed getting started and usage instructions, the [source code][link__source] is available on GitHub.
 
 
 
-[documentation__to_unicode]: https://github.com/paranoid-linux/script-apt-get/blob/main/.github/README.md "Repository documentation"
+[link__documentation]: https://github.com/paranoid-linux/script-apt-get/blob/main/.github/README.md "Repository documentation"
 
-[source__to_unicode]: https://github.com/paranoid-linux/script-apt-get "Repository source code"
+[link__source]: https://github.com/paranoid-linux/script-apt-get "Repository source code"
 
+
+[question__code_review__stack_exchange]: 
