@@ -46,7 +46,9 @@ cli-rustdoc 'version_operators'
 
 
 
-[link__documentation]: https://github.com/git-utilities/link-alias/blob/main/.github/README.md "Repository documentation"
+[link__documentation]: https://github.com/rust-utilities/rust-utilities/blob/main/.github/README.md "Repository documentation"
 
-[link__source]: https://github.com/git-utilities/link-alias "Repository source code"
+[link__source]: https://github.com/rust-utilities/rust-utilities "Repository source code"
+
+[link__tweet]: https://twitter.com/S0_And_S0/status/1372657551414804484
 
