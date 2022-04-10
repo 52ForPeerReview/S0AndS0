@@ -40,3 +40,5 @@ Next week I'll likely pick a slightly easier project to publish so that a bit mo
 
 [link__jekyll__collection__manually_ordering_documents]: https://jekyllrb.com/docs/collections/#manually-ordering-documents
 
+[link__tweet]: https://twitter.com/S0_And_S0/status/1362655448680300544
+

@@ -141,3 +141,5 @@ column-uniquely-sorted.awk --count\"
 
 [link__source]: https://github.com/awk-utilities/column-uniquely-sorted "Repository source code"
 
+[link__tweet]: https://twitter.com/S0_And_S0/status/1367200728020905986
+

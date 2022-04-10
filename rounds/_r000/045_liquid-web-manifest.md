@@ -87,3 +87,5 @@ icons:
 
 [link__source]: https://github.com/liquid-utilities/webmanifest "Repository source code"
 
+[link__tweet]: https://twitter.com/S0_And_S0/status/1389369978412019715
+

@@ -49,3 +49,5 @@ git link-alias init
 
 [link__source]: https://github.com/git-utilities/link-alias "Repository source code"
 
+[link__tweet]: https://twitter.com/S0_And_S0/status/1365378976194179078
+
