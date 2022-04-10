@@ -14,7 +14,7 @@ This week I've published an example navigation menu that is built with pure CSS 
 Git may be used to clone source code and edit locally, eg...
 
 
-```Bash
+```bash
 mkdir -vp ~/git/hub/web-dev-examples
 
 cd ~/git/hub/web-dev-examples

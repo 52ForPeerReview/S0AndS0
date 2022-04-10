@@ -15,7 +15,7 @@ This week I've published a project for building a Makefile for Vim plugin instal
 **Clone**
 
 
-```Bash
+```bash
 mkdir -vp ~/git/hub/vim-utilities
 
 cd ~/git/hub/vim-utilities
@@ -27,7 +27,7 @@ git clone git@github.com:vim-utilities/build-vim-makefile.git
 **Install**
 
 
-```Bash
+```bash
 cd ~/git/hub/vim-utilities/build-vim-makefile
 
 make install
@@ -40,7 +40,7 @@ make install
 Make a directory for Vim new plugin project...
 
 
-```Bash
+```bash
 mkdir -p ~/git/hub/vim-utilities/project-name
 ```
 
@@ -48,7 +48,7 @@ mkdir -p ~/git/hub/vim-utilities/project-name
 Run `build-vim-makefile` script for new project...
 
 
-```Bash
+```bash
 build-vim-makefile --path ~/git/hub/vim-utilities/project-name\
                    --author "S0AndS0"\
                    --version "0.0.1"
